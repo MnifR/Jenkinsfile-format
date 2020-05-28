@@ -30,10 +30,6 @@ node {
 }
 ```
 
-#### *  Declarative Pipeline.
-
-
-
 ## Declarative Pipeline 
 
 ```groovy
@@ -70,8 +66,7 @@ pipeline {
 ```
 
 
-
-## Declarative Pipeline 
+## Declarative Pipeline Sample
 
 ```groovy
 pipeline {
